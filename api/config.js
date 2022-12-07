@@ -14,6 +14,6 @@ export const PASS = process.env.PASS || 'lszexysgdylynalk'
 
 export const FRONT_DOMINIO = process.env.FRONT_DOMINIO || "http://localhost:3000"
 
-export const  CLOUDINARY_API_KEY = process.env.CLOUDINARY_API_KEY || '538156482951348'
-export const  CLOUDINARY_SECRET = process.env.CLOUDINARY_SECRET || 'mNt54epCDXlRfZUhsEInzboN5O8'
-export const CLOUDINARY_CLOUD_NAME = process.env.CLOUDINARY_CLOUD_NAME || 'dcowegmcn'
+export const  CLOUDINARY_API_KEY = process.env.CLOUDINARY_API_KEY || '147141522315855'
+export const  CLOUDINARY_SECRET = process.env.CLOUDINARY_SECRET || '8zksHwcxjU0oSb_XlVEbD2h6v8s'
+export const CLOUDINARY_CLOUD_NAME = process.env.CLOUDINARY_CLOUD_NAME || 'dbcgyeije'
